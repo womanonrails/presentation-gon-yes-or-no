@@ -126,7 +126,7 @@ class: middle, inverse
 
 # Bibliography
 
-- [Popular JavaScript framerowks 2011](http://www.webappers.com/infographics/javascript-frameworks-jquery.html)
+- [Popular JavaScript frameworks 2011](http://www.webappers.com/infographics/javascript-frameworks-jquery.html)
 - [Ruby on Rails](https://rubygems.org/gems/rails/versions/4.2.6)
 - [Backbone.js](https://en.wikipedia.org/wiki/Backbone.js)
 - [AngularJS](https://en.wikipedia.org/wiki/AngularJS)
